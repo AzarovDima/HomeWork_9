@@ -1,0 +1,15 @@
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\bin\Debug\net7.0\Recurs_3_68_Akkerman.exe
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\bin\Debug\net7.0\Recurs_3_68_Akkerman.deps.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\bin\Debug\net7.0\Recurs_3_68_Akkerman.runtimeconfig.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\bin\Debug\net7.0\Recurs_3_68_Akkerman.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\bin\Debug\net7.0\Recurs_3_68_Akkerman.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\Recurs_3_68_Akkerman.csproj.AssemblyReference.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\Recurs_3_68_Akkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\Recurs_3_68_Akkerman.AssemblyInfoInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\Recurs_3_68_Akkerman.AssemblyInfo.cs
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\Recurs_3_68_Akkerman.csproj.CoreCompileInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\Recurs_3_68_Akkerman.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\refint\Recurs_3_68_Akkerman.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\Recurs_3_68_Akkerman.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\Recurs_3_68_Akkerman.genruntimeconfig.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_3_68_Akkerman\obj\Debug\net7.0\ref\Recurs_3_68_Akkerman.dll
