@@ -1,0 +1,15 @@
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\bin\Debug\net7.0\Recurs_2_66.exe
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\bin\Debug\net7.0\Recurs_2_66.deps.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\bin\Debug\net7.0\Recurs_2_66.runtimeconfig.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\bin\Debug\net7.0\Recurs_2_66.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\bin\Debug\net7.0\Recurs_2_66.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\Recurs_2_66.csproj.AssemblyReference.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\Recurs_2_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\Recurs_2_66.AssemblyInfoInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\Recurs_2_66.AssemblyInfo.cs
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\Recurs_2_66.csproj.CoreCompileInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\Recurs_2_66.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\refint\Recurs_2_66.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\Recurs_2_66.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\Recurs_2_66.genruntimeconfig.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_9\HomeWork_9\Recurs_2_66\obj\Debug\net7.0\ref\Recurs_2_66.dll
